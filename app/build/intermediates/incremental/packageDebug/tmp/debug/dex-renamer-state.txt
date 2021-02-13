@@ -1,4 +1,0 @@
-#Sat Feb 13 10:05:06 EST 2021
-base.0=E\:\\Android\\CS639\\ScrollingText\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
