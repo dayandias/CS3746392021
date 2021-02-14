@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ThreeButtonInLine</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="button_label_count">Count</string>
+    <string name="button_label_reset">Reset</string>
+    <string name="counter">0</string>
+    <string name="toast_message">3 Button App</string>
+</resources>
