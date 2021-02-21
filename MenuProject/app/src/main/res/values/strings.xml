@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MenuProject</string>
+
+<!--    SMS-->
+    <string name="btn_sms">SMS</string>
+    <string name="num_sms">+19292886725</string>
+    <string name="msg_sms">Dayan Dias</string>
+
+<!--    Phone-->
+    <string name="btn_phone">Phone</string>
+    <string name="call_num">+19292886725</string>
+
+<!--    Web-->
+    <string name="btn_web">WEB</string>
+    <string name="web_url">https://github.com/dayandias</string>
+
+<!--    Map-->
+    <string name="btn_map">MAP</string>
+    <string name="map_loc">Colombo, Sri Lanka</string>
+
+<!--    Share-->
+    <string name="btn_share">Share</string>
+    <string name="share_text_subject">Share the love</string>
+    <string name="msg_title">Share the love</string>
+    <string name="msg_bdy">Just sharing the love</string>
+
+<!--    New Activity-->
+    <string name="btn_act">NEW ACTIVITY</string>
+    <string name="text_msg">Hello, Dayan Dias</string>
+    <string name="view_msg">Welcome</string>
+    <string name="new_act_act">New Activity</string>
+
+<!--    Help Activity-->
+    <string name="help_act_act">Help Activity</string>
+    <string name="help_text">Help Activity Text</string>
+    <string name="help_menu">Help</string>
+    <string name="help_set">Settings</string>
+    <string name="text_creator">Developed by Dayan Dias</string>
+</resources>
