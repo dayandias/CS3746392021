@@ -1,0 +1,4 @@
+#Thu Mar 11 23:15:17 EST 2021
+base.0=E\:\\Pace\\Pace Studies\\Spring 2021\\Mobile Application Development\\Assignments\\HelloSharedPrefs\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
