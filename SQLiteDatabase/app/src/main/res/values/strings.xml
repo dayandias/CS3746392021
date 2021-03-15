@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLiteDatabase</string>
+    <string name="enter_student_name">Enter student name</string>
+    <string name="name_of_the_student">Name of the student</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_delete">Delete</string>
+    <string name="error_toast">No name detected</string>
+    <string name="insert_toast">Name saved successfully</string>
+    <string name="del_toast">Name deleted successfully</string>
+</resources>
