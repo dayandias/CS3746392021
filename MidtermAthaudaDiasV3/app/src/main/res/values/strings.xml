@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CURRENCY CONVERTER</string>
+    <string name="enter_euro">Enter the Euro amount</string>
+    <string name="convert">Convert</string>
+    <string name="enter_amount_here">Enter amount here</string>
+    <string name="second_act_head">YOUR EUROS IN $$$</string>
+</resources>
