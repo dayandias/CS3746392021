@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">employeedb</string>
+    <string name="enter_emp">Enter employee name below</string>
+    <string name="insert_employee">Insert Employee</string>
+</resources>
